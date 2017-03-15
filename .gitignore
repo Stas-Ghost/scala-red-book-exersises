@@ -1,0 +1,6 @@
+.git
+.idea
+.ensime
+.ensime_cache
+target
+*.iml
